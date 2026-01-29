@@ -1,6 +1,6 @@
 # HUD Editor
 
-The HUD Editor allows you to **customize** your in-game HUD.
+The HUD Editor allows you to customize your in-game HUD.
 
 ## Available HUD Elements
 
@@ -43,4 +43,4 @@ HUD elements can be added using the plus icon and dragged to any position on the
 
 By clicking on a HUD element and using the trash bin next to the plus icon, you can delete the item.
 
-Further options are available through the **settings tool** in the editor.
+Further options are available through the Settings tool in the editor.

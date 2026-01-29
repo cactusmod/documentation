@@ -33,20 +33,20 @@ Time Based capes like the **Christmas 2024** and **April Fools 2025 (Clippy)** C
 ## Obtaining Cosmetics
 There are many ways to obtain cosmetics. Here are (almost) all of them.
 
-### 🥇 Milestones
+### Milestones
 For some milestones (like the 1000 members milestone), every registered user receives a cape.
 As long as you have logged in before / during that event, you should obtain the cape automatically.
 
-### 🚪 Playing during Events
+### Playing during Events
 For some other events like the 1st anniversary, every user playing during that event receives a cape.
 As long as you play cactus once in that timespan, you should obtain the cape automatically.
 
-### 🛠️ Assigned by the Team
+### Assigned by the Team
 Staff members can manually assign capes to users. These are mostly random capes we've created for fun - feel free to ask for one (but please don't permanently nag us about it!)
 
 Some capes like the developer cape are only given to team members.
 
-### 🎫 Single-use codes
+### Single-use codes
 For some events like the Gamescom and for some special capes, single-use codes are given out to some users.
 They can be redeemed using `/redeem <code> <username>` in our [Discord Server](https://cactusmod.xyz/go?discord)
 

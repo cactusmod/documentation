@@ -1,18 +1,18 @@
 # Local Server
 
-You can create a local server using the **Local Server** tab in the **Mods menu**.
+The Local Server tab in the Mods menu allows you to create and manage your own local server.
 
 ## Creating a Server
 
-At the bottom left, you can **create, open, and start a server**.  
-In the middle, the **"Create Server"** button allows you to set up a new server. Here, you can:
+At the bottom left, you can create, open, and start a server.  
+In the middle, the "Create Server" button allows you to set up a new server. Here, you can:
 
-- Give your server a **name**  
-- Choose a **port** (default is 25565)  
-- Select the **server software** from the available options: Vanilla, Paper, or Fabric.  
-- Optionally, add **custom server software**.
+- Give your server a name 
+- Choose a port (default is 25565)  
+- Select the server software from the available options: Vanilla, Paper, or Fabric.  
+- Optionally, add custom server software.
 
 ## Managing Servers
 
-Already created servers can be **edited or started** from the **Local Server** menu.  
-For running servers, you can also **access the server console** to view logs and manage the server in real time.
+Already created servers can be edited or started from the Local Server menu.  
+For running servers, you can also access the server console to view logs and manage the server in real time.
