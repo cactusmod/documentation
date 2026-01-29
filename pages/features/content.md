@@ -33,4 +33,4 @@ Content Packs add optional features and enhancements to gameplay.
 
 ## Management
 
-Content packs can be enabled or disabled by moving them between the Available and Selected categories.
+Content packs can be enabled or disabled by moving them between the Selected and Available categories.

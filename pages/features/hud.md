@@ -39,8 +39,6 @@ The HUD Editor allows you to customize your in-game HUD.
 
 ## Usage
 
-HUD elements can be added using the plus icon and dragged to any position on the screen.
-
-By clicking on a HUD element and using the trash bin next to the plus icon, you can delete the item.
+HUD elements can be added using the plus icon and dragged to any position on the screen. By clicking on a HUD element and using the trash bin next to the plus icon, you can delete the item.
 
 Further options are available through the Settings tool in the editor.

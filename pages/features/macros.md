@@ -1,8 +1,6 @@
 # Macros
 
-Macros are small, user-defined sequences of commands that you can execute automatically.  
-
-You can find them in the Mod menu at the bottom right under the name Macros.
+Macros are small, user-defined sequences of commands that can be executed automatically and are located in the Mod menu at the bottom right under the name Macros.
 
 ## Creating a Macro
 
@@ -15,4 +13,4 @@ You can find them in the Mod menu at the bottom right under the name Macros.
 
 ## Editing and Deleting Macros
 
-- Existing macros can be edited or deleted through the menu.
+Existing macros can be edited or deleted through the menu.
