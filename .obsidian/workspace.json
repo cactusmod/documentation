@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "dd2c142381517940",
+    "type": "split",
+    "children": [
+      {
+        "id": "358bd9bba8627c2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d81cf71d82a80246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/advanced/addons/project-setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "project-setup"
+            }
+          },
+          {
+            "id": "0a7873ae8411417b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fed01d24c1d9c41c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b4cd463bc1f937a7",
+            "type": "tabs",
+            "dimension": 61.70818505338078,
+            "children": [
+              {
+                "id": "9dcbf9a571cbface",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "pages/advanced/addons/project-setup.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "project-setup"
+                }
+              },
+              {
+                "id": "0af0e1769c150771",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "pages/advanced/addons/adding-content.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "adding-content"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "1ce2b66ce120bcbd",
+            "type": "tabs",
+            "dimension": 38.29181494661922,
+            "children": [
+              {
+                "id": "4677b9b5e5859cbf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "pages/advanced/addons/project-setup.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "project-setup"
+                }
+              },
+              {
+                "id": "fa0a12788b3b4722",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "old.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "old"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d005e37986232cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a296a115106ee78d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "254e7eae0691d6ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "97c3b7cbb75d35fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "08791bdd8ed78c49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4251f5e26fc77ad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "959952a389f90690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbcd9c88b3a5aae6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "756563d623a58378",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bd20dea6e431b896",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "71bb750570d84775",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "19f317605ce56f0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0a7873ae8411417b",
+  "lastOpenFiles": [
+    "old.md",
+    "pages/index.md",
+    "pages/advanced/addons/informations.md",
+    "pages/advanced/addons/adding-content.md",
+    "static/options_main.webp",
+    "static/cosmetics/1000_member.webp",
+    "pages/advanced/addons/project-setup.md",
+    "Untitled",
+    "pages/advanced/addons/fabric",
+    "pages/features/placeholders.md",
+    "Untitled.md",
+    "pages/advanced/addons"
+  ]
+}
