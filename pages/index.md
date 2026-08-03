@@ -29,6 +29,10 @@ If you want to contribute, check out our [GitHub Repository](https://www.github.
                 chat.md
         advanced/
             userscripts.md
+            addons/
+	            informations.md
+		        project-setup.md
+		        adding-content.md
             addons.md
             experiments.md
         troubleshooting/

@@ -15,25 +15,6 @@ Use the [Fabric Template Mod Generator](https://fabricmc.net/develop/template/) 
 
 After that, just import the downloaded Project into your IDE. I recommend using IntelliJ.
 
-### Dependency
-To be able to use Cactus in your Project, you need to import it as a dependency. Currently we don't have a public maven repository for that, so you'll need to import the jarfile as a library.
-
-Navigate to your `build.gradle` file and look for the `dependencies` section and add Cactus as shown below.
-
-```gradle
-dependencies {
-    // To change the versions see the gradle.properties file
-    minecraft "com.mojang:minecraft:${project.minecraft_version}"
-    mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
-    modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
-
-    // Fabric API. This is technically optional, but you probably want it anyway.
-    modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
-
-    // Add Cactus as a local library here
-    modImplementation fileTree(dir: 'libs', include: ['cactus-0.9.96.jar'])
-}
-```
 
 ### Entrypoints
 Cactus uses fabric's entrypoint system to discover and load addons. To make your addon visible as one to Cactus, you need to add your main class to the entrypoint for 'cactus' in your `fabric.mod.json`.
